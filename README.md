@@ -71,4 +71,3 @@
 
 - macOS 13.0 或更新版本，Intel 或 Apple Silicon 芯片
 - Windows 10 及以上，32 位、64 位系统
-*（内容由AI生成，仅供参考）*
